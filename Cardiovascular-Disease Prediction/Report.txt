@@ -1,0 +1,4 @@
+-----Patient Report-----
+ As per input data and system model No Heart Disease Detected for Respective Patient.
+
+***Relax and Follow below mentioned Lifestyle to be Healthy as You Are!!!***
