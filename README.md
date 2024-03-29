@@ -11,7 +11,7 @@ Cardiovascular-Disease Prediction/images/landing-page.png
 images\patient-input-data.png
 - Generates a PDF report with the prediction result and recommendations for the user.
 
-images\patient-report-generated.png
+![User Interface](Cardiovascular-Disease Prediction/images/landing-page.png)
 ## Installation
 1. Clone the repository:
    ```bash
