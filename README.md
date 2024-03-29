@@ -5,7 +5,7 @@ This project is a heart disease detection system developed using Python and tkin
 
 ## Features
 - User-friendly interface developed with tkinter.
-![User Interface](Cardiovascular-Disease Prediction/images/landing-page.png)
+![User Interface] Cardiovascular-Disease Prediction/images/landing-page.png
 - Utilizes a trained ANN model to make predictions with an accuracy of 97.40% and built user-friendly patient-input form to enter details.
 
 images\patient-input-data.png
